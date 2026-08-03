@@ -1,1 +1,1 @@
-print("Digital Clock Version 1")
+print("Digital Clock")
